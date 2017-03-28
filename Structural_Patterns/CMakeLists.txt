@@ -1,1 +1,2 @@
 add_subdirectory(Adapter_Pattern)
+add_subdirectory(Bridge_Pattern)
