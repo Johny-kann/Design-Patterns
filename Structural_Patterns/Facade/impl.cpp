@@ -24,3 +24,8 @@ void CarFactory::createCompleteCar()
     _accessories.setAccessories();
 
 }
+
+void CarBody::setBody()
+{
+    std::cout<<" Body Set ";
+}
